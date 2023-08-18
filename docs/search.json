@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "website/guide/index.html",
+    "href": "website/guide/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/get-started/get-stared.html",
+    "href": "website/get-started/get-stared.html",
+    "title": "Get Started",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/gallery/gallery.html",
+    "href": "website/gallery/gallery.html",
+    "title": "gallery",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/extension/extensions.html",
+    "href": "website/extension/extensions.html",
+    "title": "Extensions",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/blog/blog.html",
+    "href": "website/blog/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Open Source License",
+    "section": "",
+    "text": "Quarto is open source software licensed under the GNU GPL v2. We believe that it’s better for everyone if the tools used for research and science are free and open. Reproducibility, widespread sharing of knowledge and techniques, and the leveling of the playing field by eliminating cost barriers are but a few of the shared benefits of free software in science.\nThe Quarto source code is available at https://github.com/quarto-dev/\nQuarto is a registered trademark of Posit. Please see our trademark policy for guidelines on usage of the Quarto trademark.\nQuarto also makes use of several other open-source projects, the distribution of which is subject to their respective licenses. Major components and their licenses include:\n\n\n\nProject\nLicense\n\n\n\n\nPandoc\nGNU GPL v2\n\n\nBootstrap 5.1\nMIT\n\n\nBootswatch 5.1\nMIT\n\n\nDeno\nMIT\n\n\nesbuild\nMIT\n\n\nDart Sass\nMIT\n\n\nObservable Runtime\nISC"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "trademark.html",
+    "href": "trademark.html",
+    "title": "Trademark Policy",
+    "section": "",
+    "text": "This policy is adapted directly from the WordPress Foundation’s trademark policy for the WordPress and WordCamp names and logos. We admire the job that WordPress has done building a thriving open source community while at the same time making possible a wide variety of WordPress related businesses. We hope that this policy will help us do the same for Quarto."
+  },
+  {
+    "objectID": "trademark.html#goals",
+    "href": "trademark.html#goals",
+    "title": "Trademark Policy",
+    "section": "Goals",
+    "text": "Goals\nPosit, PBC owns and oversees the trademark for the Quarto name and logo. We have developed this trademark usage policy with the following goals in mind:\n\nWe’d like to make it easy for anyone to use the Quarto name or logo for community-oriented efforts that help spread and improve Quarto.\nWe’d like to make it clear how Quarto-related businesses and projects can (and cannot) use the Quarto name and logo.\nWe’d like to make it hard for anyone to use the Quarto name and logo to unfairly profit from, trick or confuse people who are looking for official Quarto resources.\n\nPlease note that it is not the goal of this policy to limit open source or commercial activity around Quarto. We actively encourage Quarto-based open source projects and businesses—our goal with this policy is to prevent confusion about the source of Quarto related software and services."
+  },
+  {
+    "objectID": "trademark.html#permission",
+    "href": "trademark.html#permission",
+    "title": "Trademark Policy",
+    "section": "Permission",
+    "text": "Permission\nPermission from Posit is required to use the Quarto name or logo as part of any project, product, service, domain name, or company name.\nWe will grant permission to use the Quarto name and logo for projects that meet the following criteria:\n\nThe primary purpose of your project is to promote the spread and improvement of the Quarto software.\nYour project is non-commercial in nature (it can make money to cover its costs or contribute to non-profit entities, but it cannot be run as a for-profit project or business).\nYour project neither promotes nor is associated with entities that currently fail to comply with the GPL license under which Quarto is distributed.\n\nIf your project meets these criteria, you will be permitted to use the Quarto name and logo to promote your project in any way you see fit with these exceptions: (1) Please do not use Quarto as part of a domain name; and (2) We do not allow the use of the trademark in advertising, including AdSense/AdWords.\nAll other Quarto-related businesses or projects can use the Quarto name and logo to refer to and explain their services, but they cannot use them as part of a product, project, service, domain name, or company name and they cannot use them in any way that suggests an affiliation with or endorsement by the Quarto open source project.\nThe abbreviation “QMD” is not covered by the Quarto trademark and you are free to use it in any way you see fit."
+  },
+  {
+    "objectID": "trademark.html#examples",
+    "href": "trademark.html#examples",
+    "title": "Trademark Policy",
+    "section": "Examples",
+    "text": "Examples\nA consulting company can describe its business as “123 Publishing Services, offering Quarto consulting for publishers,” but cannot call its business “The Quarto Consulting Company.” Similarly, a business related to Quarto extensions can describe itself as “XYZ Extensions, the world’s best Quarto extensions,” but cannot call itself “The Quarto Extension Portal.”\nSimilarly, it’s OK to use the Quarto logo as part of a page that describes your products or services, but it is not OK to use it as part of your company or product logo or branding itself. Under no circumstances is it permitted to use Quarto as part of a domain name or top-level domain name.\nWhen in doubt about your use of the Quarto name or logo, please contact Posit at permissions@rstudio.com for clarification."
+  },
+  {
+    "objectID": "website/blog/index.html",
+    "href": "website/blog/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/extension/index.html",
+    "href": "website/extension/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/gallery/index.html",
+    "href": "website/gallery/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/get-started/index.html",
+    "href": "website/get-started/index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/guide/guide.html",
+    "href": "website/guide/guide.html",
+    "title": "Guide",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website/get-started/get-started.html",
+    "href": "website/get-started/get-started.html",
+    "title": "Get Started",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
